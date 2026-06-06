@@ -14,7 +14,7 @@ A trained LLM has a shelf life of roughly a year. Its knowledge is frozen at the
 
 ## Read it
 
-- **PDF:** [shelf-life-model-andcase-for-separating-knowledge_v1.0.pdf](./shelf-life-model-andcase-for-separating-knowledge_v1.0.pdf) — *GitHub's embedded viewer cannot render this; download it instead.*
+- **PDF:** [shelf-life-model-andcase-for-separating-knowledge_v1.0.pdf]([./shelf-life-model-andcase-for-separating-knowledge_v1.0.pdf](https://raw.githubusercontent.com/SemanticTools/shelf-life-of-a-trained-model/main/shelf-life-model-andcase-for-separating-knowledge_v1.0.pdf)) — *GitHub's embedded viewer cannot render this; this is a link to the raw file instead.*
 - **Markdown:** [why-llms-need-to-change.md](./why-llms-need-to-change.md)
 
 ## Methodology & License
